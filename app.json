@@ -7,15 +7,15 @@
     "env": {
         "API_ID": {
           "description": "API ID from my.telegram.org/auth.",
-          "value": "eg. 3900713"
+          "value": "20056800"
         },
         "API_HASH": {
           "description": "API HASH from my.telegram.org/auth.",
-          "value": "eg. U795a291w9Svf9cmnwH2GF2pnJA98K2B"
+          "value": "4c4ee591d3b3c20ed69299ac10b79032"
         },
         "BOT_TOKEN": {
           "description": "Enter your Bot token which you got from @botfather.",
-          "value": "eg. 5985020205:8j68m91hQqnST3ULl7q3367c7c0zu6mf3L8"
+          "value": "6539353342:AAFQ7jWyCTKNSz-HQzBmPptO0ftl_735V8A"
         },
         "MAX": {
           "description": "Max words for sending the OTP. Best is 20 or 30",
