@@ -24,7 +24,7 @@ Deploy the bot via :~
 <summary><b>Heroku ⚡️</b></summary>
 <br>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/jainamoswal/otp-scam)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/snapchotu/otp-scam)
 </details>
 
 <details>
